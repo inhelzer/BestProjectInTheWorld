@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/00.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/inbal.unity
+    guid: 49c20512b76ef45a4b9b4fef400e2990
+  - enabled: 1
+    path: Assets/Scenes/Guy.unity
+    guid: 2f0317cf90ac5438496db7b91ec961ea
+  - enabled: 1
+    path: Assets/Scenes/nitay.unity
+    guid: bfddfdd5baf5448da9f605ea4ac4759a
+  - enabled: 1
+    path: Assets/Scenes/Hadas.unity
+    guid: 77dd4a6c51c194f948532b6c58444068
+  - enabled: 1
+    path: Assets/Scenes/Yiftach.unity
+    guid: 24c6b587cdd0d488590c49578785c4ad
+  - enabled: 1
+    path: Assets/Scenes/liron.unity
+    guid: 8f1cb0fb4c3b348a2a77252cab759f8c
+  - enabled: 1
+    path: Assets/Scenes/Yehonatan.unity
+    guid: 8127491ab9ff04e9b87a7453b172ddff
+  - enabled: 1
+    path: Assets/Scenes/noam.unity
+    guid: 8aedebaacafe84c2b860fad2f1941c22
+  - enabled: 1
+    path: Assets/Scenes/orin.unity
+    guid: 1ce468e83c2bb44d09e32848f16db2b7
   m_configObjects: {}
