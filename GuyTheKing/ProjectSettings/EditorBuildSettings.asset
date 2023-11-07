@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/orin.unity
     guid: 1ce468e83c2bb44d09e32848f16db2b7
+  - enabled: 1
+    path: Assets/Scenes/winLevel.unity
+    guid: 0a19e47f6be7f43c7ab0ededd1e45c32
   m_configObjects: {}
