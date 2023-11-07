@@ -20,7 +20,7 @@ public class YZplyaerthingman : MonoBehaviour
     {
         if (other.gameObject.tag=="endwin")
         {
-            FindAnyObjectByType<LevelLoader>().LoadNextScene();
+            FindObjectOfType<LevelLoader>().LoadNextScene();
         }
     }
     private void OnTriggerEnter2D(Collider2D other)
